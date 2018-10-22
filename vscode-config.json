@@ -21,7 +21,6 @@
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "http.proxy": "https://proxy.verizon.com",
   "prettier.eslintIntegration": true,
   "prettier.singleQuote": true,
   "typescript.experimental.syntaxFolding": false,
